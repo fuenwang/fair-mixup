@@ -1,0 +1,11 @@
+*.pyc
+*.swp
+*experiment
+experiment*
+save*
+*pth.tar
+exp*/
+*.zip
+.vscode
+adult/adult/
+__pycache__
